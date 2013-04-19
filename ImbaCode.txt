@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HAHAHAHAHA
+=======
+Tar bort html!!
+>>>>>>> af5afd01f54d01c1598890a61a53f8cd6f01108b
